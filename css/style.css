@@ -1,0 +1,30 @@
+body {
+    background-color: ;
+    margin: 0;
+}
+
+div.top {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    padding: 20px;
+    margin-left: 0;
+}
+
+.bottom {
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    margin-left: 500px;
+
+}
+
+.middle {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    border: 20px solid black;
+    margin-left: 260px;
+}
